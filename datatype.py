@@ -44,3 +44,43 @@ print(type(person))
 value = None
 print(value)
 print(type(value))
+
+# 10. Complex
+complex_number = 3 + 4j
+print(complex_number)
+print(type(complex_number))
+
+# 11. Range
+numbers = range(5)
+print(numbers)
+print(type(numbers))
+
+# 12. Byte
+byte_value = b'Hello'
+print(byte_value)
+print(type(byte_value))
+
+# 13. Buffer
+buffer_value = memoryview(b'Hello')
+print(buffer_value)
+print(type(buffer_value))
+
+# 14. Ellipsis
+ellipsis_value = ...
+print(ellipsis_value)
+print(type(ellipsis_value))
+
+# 15. Frozen Set
+frozen_set = frozenset({"apple", "banana", "orange"})
+print(frozen_set)
+print(type(frozen_set))
+
+# 16. Bytearray
+bytearray_value = bytearray(b'Hello')
+print(bytearray_value)
+print(type(bytearray_value))
+
+# 17. Memoryview
+memoryview_value = memoryview(b'Hello')
+print(memoryview_value)
+print(type(memoryview_value))
