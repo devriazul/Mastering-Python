@@ -13,4 +13,4 @@ print(second_location)
 print(first_location == second_location)
 
 # Output:
-# True
+# False
