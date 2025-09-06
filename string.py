@@ -5,7 +5,7 @@ print(name)
 name = "Riazul"
 print(name)
 #triple quote
-name = """Riazul"""
+name = "Hello! 'Riazul' How are you?, what's up?"
 print(name)
 #triple single quote
 name = '''Riazul'''
